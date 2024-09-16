@@ -1,4 +1,6 @@
-# FMainPno.zpf
+# Pianos
+
+## FMainPno.zpf
 
 | Controle | Função |
 | ------------- | ------------- |
@@ -9,3 +11,11 @@
 | Slide 6 | Reverb |
 | Wheel | Expressão das cordas |
 | Pedal 2 | Fade in e fade out das cordas |
+
+## EPs
+
+:TODO
+
+## Synths
+
+:TODO
